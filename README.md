@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <!--
 **ArijHabbechi/ArijHabbechi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hey there! I'm Arij Habbechi! 😎🚀
+# Hey there! I'm Arij Habbechi! 👋
 
 ## 🧑‍💻 Computer Network & Telecommunications Engineering Student | DevSecOps & SRE Enthusiast
 
