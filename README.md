@@ -24,7 +24,7 @@ I'm a third-year engineering student from Tunisia with a passion for **automatin
 
 ## 🛠️ Tech Stack That I Love to Play With
 
-- **DevOps Tools**: Jenkins, Ansible, Docker, Kubernetes, Azure DevOps Pipelines, Zabbix, Prometheus, Grafana ...
+- **DevOps Tools**: Jenkins, Ansible, Docker, Kubernetes, Azure DevOps Pipelines, Zabbix, Prometheus, Grafana, Helm, Terraform, Istio, Cilium&eBPF ...
 - **Cloud Platforms**: Azure, AWS
 - **Programming Languages**: Python, JavaScript, Java, C
 - **Networking & Security**: Cisco configuration, network services, security protocols
